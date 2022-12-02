@@ -7,7 +7,7 @@ html {
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(rgb(243, 14, 52), rgb(10, 13, 235));
 }
 
 button {
@@ -34,4 +34,16 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+}
+
+#R {
+  color: red;
+}
+
+#Y {
+  color: yellow;
+}
+
+#G {
+  color: green;
 }
